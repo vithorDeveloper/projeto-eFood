@@ -6,7 +6,6 @@ import { add, openCart } from "../../store/reducers/cart";
 import { Button } from "../Plate/styles";
 import { modalType } from "../PlatesList";
 
-import botaoFechar from "../../assets/images/botao_fechar.png";
 import { formataPreco } from "../../utils";
 
 import * as S from "./styles";
