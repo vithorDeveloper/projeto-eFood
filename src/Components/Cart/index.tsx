@@ -37,8 +37,7 @@ const Cart = () => {
         {items.length === 0 ? (
           <div className="message-cart-div">
             <h3 className="message-cart">
-              Parece que você ainda não comprou nada 😞, escolhe algum prato e
-              coloque em seu carrinho para seguir com o pagamento!🍝
+              Não há nada aqui ainda, escolha algum prato!
             </h3>
           </div>
         ) : (
